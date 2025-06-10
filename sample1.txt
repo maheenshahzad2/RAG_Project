@@ -1,0 +1,2 @@
+===== SUMMARY: History of the Internet =====
+The internet evolved from a military communication project (ARPANET) into a global information network. Key milestones include the invention of TCP/IP, the World Wide Web by Tim Berners-Lee, and the rise of mobile internet. Its growth has reshaped communication, commerce, education, and social interaction, though concerns over privacy and misinformation persist.
